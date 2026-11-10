@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="kic635 — Exploring AI. Building with code. 关注 Agent、上下文与可观测性。" />
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/header.svg" width="100%" alt="kic635 — Exploring AI. Building with code. 关注 Agent、上下文与可观测性。" />
 </p>
 
 <p align="center">
