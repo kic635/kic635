@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">kic635 — Exploring AI. Building with code.</title>
+  <desc id="desc">A dark engineering canvas with mint and violet orbital paths connecting context, agents, and traces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#101924"/><stop offset="1" stop-color="#0B0F19"/></linearGradient>
+    <linearGradient id="accent" x1="40" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8C5"/><stop offset="1" stop-color="#A89AFF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6555B5" stop-opacity=".23"/><stop offset="1" stop-color="#6555B5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#B3C4DF" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="339" rx="20" fill="url(#bg)" stroke="#273344"/>
+  <rect x="1" y="1" width="958" height="338" rx="20" fill="url(#grid)"/>
+  <ellipse cx="764" cy="165" rx="220" ry="180" fill="url(#glow)"/>
+  <path d="M40 1H920" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="45" cy="43" r="4" fill="#67E8C5"/>
+    <text x="60" y="47" fill="#A6B5C9" font-size="11" letter-spacing="2">PERSONAL / ENGINEERING SPACE</text>
+    <text x="40" y="145" fill="#F0F5FF" font-size="72" font-weight="700" letter-spacing="-4">kic635<tspan fill="#67E8C5">.</tspan></text>
+    <text x="44" y="188" fill="#D7E1EF" font-size="20">Exploring AI. Building with code.</text>
+    <text x="44" y="222" fill="#8D9DB3" font-size="12" letter-spacing="1">AGENTS / CONTEXT / OBSERVABILITY</text>
+    <path d="M44 267H916" stroke="#273344"/>
+    <text x="44" y="302" fill="#67E8C5" font-size="11" letter-spacing="1.5">IDEA</text>
+    <path d="M88 298H126M121 294L126 298L121 302" stroke="#64758E"/>
+    <text x="140" y="302" fill="#C4D0E2" font-size="11" letter-spacing="1.5">BUILD</text>
+    <path d="M194 298H232M227 294L232 298L227 302" stroke="#64758E"/>
+    <text x="246" y="302" fill="#A89AFF" font-size="11" letter-spacing="1.5">ITERATE</text>
+    <text x="916" y="302" text-anchor="end" fill="#72829B" font-size="11">@kic635</text>
+  </g>
+  <g stroke="#A89AFF" stroke-opacity=".32"><ellipse cx="761" cy="148" rx="124" ry="75" transform="rotate(-32 761 148)"/><ellipse cx="761" cy="148" rx="124" ry="75" transform="rotate(32 761 148)"/><circle cx="761" cy="148" r="99" stroke-dasharray="3 9"/></g>
+  <path d="M657 95L761 148L858 91M761 148L797 236" stroke="url(#accent)" stroke-opacity=".65"/>
+  <circle cx="761" cy="148" r="33" fill="#142832" stroke="#67E8C5"/>
+  <path d="M751 138L742 148L751 158M771 138L780 148L771 158M765 135L757 161" stroke="#67E8C5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#121B2A" stroke="#66718F"><circle cx="657" cy="95" r="7"/><circle cx="858" cy="91" r="7"/><circle cx="797" cy="236" r="7"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1"><text x="622" y="74" fill="#9BAEC6">CONTEXT</text><text x="837" y="69" fill="#B9AFFF">AGENT</text><text x="816" y="241" fill="#9BAEC6">TRACE</text></g>
+</svg>
