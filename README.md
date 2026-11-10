@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/header.svg" width="100%" alt="kic635 — Exploring AI. Building with code. 关注 Agent、上下文与可观测性。" />
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/header.svg" width="100%" alt="kic635 — Exploring AI. Building with code. Agents, context, and observability." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kic635?tab=repositories"><b>浏览全部仓库 ↗</b></a>
+  <a href="https://github.com/kic635?tab=repositories"><b>Explore repositories ↗</b></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/kic635?tab=stars">我的 Stars ↗</a>
+  <a href="https://github.com/kic635?tab=stars">My stars ↗</a>
 </p>
 
-### / 关于我
+### / About
 
-你好，我是 **kic635**。探索 AI 应用开发，关注 **Agent 协作、检索增强与跨会话记忆**，也关心如何看清应用的真实执行过程。
+Hi, I'm **kic635**. I explore AI application development, with a focus on **agent collaboration, retrieval, and memory across conversations**.
 
-从 Python 后端到 TypeScript 界面，把想法写成能运行的东西，在实践中不断迭代。
+I build with Python and TypeScript, connecting backend services to web interfaces. I'm also interested in tracing how AI applications actually behave—from the context they retrieve to the actions they take.
 
-### / 技术坐标
+### / Technical interests
 
-| 方向 | 关注的内容 |
+| Area | Tools & interests |
 | :--- | :--- |
-| **Agent & Context** | LangChain · LangGraph · RAG · 跨会话记忆 |
-| **Observability** | 执行追踪 · Langfuse · AI Vision |
+| **Agents & Context** | LangChain · LangGraph · RAG · Cross-conversation memory |
+| **Observability** | Execution tracing · Langfuse · AI Vision |
 | **Backend** | Python · FastAPI |
 | **Frontend** | TypeScript · React · Vite |
 
