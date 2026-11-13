@@ -12,7 +12,7 @@
 
 Hi, I'm **kic635**. I explore AI application development, with a focus on **agent collaboration, retrieval, and memory across conversations**.
 
-I build with Python and TypeScript, connecting backend services to web interfaces. I'm also interested in tracing how AI applications actually behave—from the context they retrieve to the actions they take.
+I build backend services with Java, Spring Boot, Python, and FastAPI, using MySQL for data storage and Redis for caching. I also work with TypeScript and React to connect these services to web interfaces. I'm also interested in tracing how AI applications actually behave—from the context they retrieve to the actions they take.
 
 ### / Technical interests
 
@@ -20,7 +20,8 @@ I build with Python and TypeScript, connecting backend services to web interface
 | :--- | :--- |
 | **Agents & Context** | LangChain · LangGraph · RAG · Cross-conversation memory |
 | **Observability** | Execution tracing · Langfuse · AI Vision |
-| **Backend** | Python · FastAPI |
+| **Backend** | Java · Spring Boot · Python · FastAPI |
+| **Databases & Cache** | MySQL · Redis |
 | **Frontend** | TypeScript · React · Vite |
 
 <br />
