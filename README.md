@@ -1,37 +1,54 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/header.svg" width="100%" alt="kic635 — Building intelligent systems. AI agents, full stack, and observability." />
-</p>
+<!-- Profile designed for GitHub Markdown: local SVG artwork, no scripts or external stats services. -->
 
 <p align="center">
-  <a href="https://github.com/kic635?tab=repositories"><b>Explore repositories ↗</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/kic635?tab=stars">My stars ↗</a>
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/header.svg" width="100%" alt="kic635 — Ideas into agents. Code into something real." />
+</p>
+<p align="center">
+  <a href="#about"><b>ABOUT</b></a> &nbsp; / &nbsp;
+  <a href="#agents"><b>AGENTS</b></a> &nbsp; / &nbsp;
+  <a href="#stack"><b>STACK</b></a> &nbsp; / &nbsp;
+  <a href="#projects"><b>PROJECTS</b></a> &nbsp; / &nbsp;
+  <a href="https://github.com/kic635?tab=repositories"><b>ALL REPOSITORIES ↗</b></a>
 </p>
 
-### `01` / Behind the code
+<a name="about"></a>
 
-Hi, I'm **kic635**. I explore AI application development, with a focus on **AI agents, multi-agent collaboration, and practical AI engineering**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/about.svg" width="100%" alt="About me — AI applications, multi-agent collaboration, full-stack development, and observability." />
+</p>
 
-I build backend services with Java, Spring Boot, Python, and FastAPI, using MySQL for data storage and Redis for caching. I also work with TypeScript and React to connect these services to web interfaces. I'm also interested in tracing how AI applications actually behave—from the context they retrieve to the actions they take.
-
-### `02` / Agent engineering
+<a name="agents"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/frameworks.svg" width="100%" alt="DeepAgents · AgentScope · LangChain · LangGraph" />
 </p>
 
-### `03` / The toolkit
-
-| Area | Tools & interests |
-| :--- | :--- |
-| **Agent Frameworks** | DeepAgents · AgentScope · LangChain · LangGraph |
-| **Observability** | Execution tracing · Langfuse · AI Vision |
-| **Backend** | Java · Spring Boot · Python · FastAPI |
-| **Databases & Cache** | MySQL · Redis |
-| **Frontend** | TypeScript · React · Vite |
-
-<br />
+<a name="stack"></a>
 
 <p align="center">
-  <sub>⚡ Explore → Build → Ship → Repeat</sub>
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/stack.svg" width="100%" alt="Backend: Java, Spring Boot, Python, FastAPI. Frontend: TypeScript, React, Vite. Data: MySQL, Redis. Observability: execution tracing, Langfuse, AI Vision." />
+</p>
+
+<a name="projects"></a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/projects-title.svg" width="100%" alt="Selected projects" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kic635/SymbioGroup"><img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/project-symbio.svg" width="100%" alt="SymbioGroup — multi-role AI dialogue for wildlife conservation. View repository." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kic635/langchain-pwcx-aivision-demo"><img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/project-tracing.svg" width="100%" alt="Agent execution lab — a LangChain and AI Vision Python demo. View repository." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kic635?tab=repositories"><b>More experiments ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/kic635?tab=stars"><b>Things I find interesting ↗</b></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/footer.svg" width="100%" alt="Explore → Build → Ship → Repeat" />
 </p>
