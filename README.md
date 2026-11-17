@@ -20,7 +20,7 @@
 <a name="agents"></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/frameworks.svg" width="100%" alt="DeepAgents · AgentScope · LangChain · LangGraph" />
+  <img src="https://raw.githubusercontent.com/kic635/kic635/main/assets/agent-frameworks.svg" width="100%" alt="DeepAgents · AgentScope · LangChain · LangGraph" />
 </p>
 
 <a name="stack"></a>
